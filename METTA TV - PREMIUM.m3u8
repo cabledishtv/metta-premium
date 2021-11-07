@@ -22,9 +22,6 @@ http://tv.naturalplus.live:25461/fEpWZBn077/MettaTV/860
 #EXTINF:0,ARG| TELEFE SALTA
 #EXTGRP:unsorted
 http://tv.naturalplus.live:25461/fEpWZBn077/MettaTV/855
-#EXTINF:0,ARG| TELEFE MAR DEL PLATA
-#EXTGRP:unsorted
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/index_1_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1635734634~acl=%2fi%2fmdqdistri02_1%40829747%2f*~data=hdntl~hmac=80dcf0b14768c9739a815bd25bf201247bc54984b6dae27a87412c13cff74cf3b
 #EXTINF:0,ARG| TV PUBLICA
 #EXTGRP:unsorted
 http://tv.naturalplus.live:25461/fEpWZBn077/MettaTV/887
@@ -61,9 +58,6 @@ https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w76827896
 #EXTINF:0,ARG| CANAL 2 MAR DEL PLATA
 #EXTGRP:unsorted
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
-#EXTINF:0,ARG| CANAL 10 MAR DEL PLATA
-#EXTGRP:unsorted
-https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8?nimblesessionid=66918377
 #EXTINF:0,NOTICIAS| CNN ESPAÑOL
 #EXTGRP:unsorted
 http://tv.naturalplus.live:25461/fEpWZBn077/MettaTV/784
